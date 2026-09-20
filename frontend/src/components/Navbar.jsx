@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, useLocation } from 'react_router_dom';
+import { Link, useLocation } from 'react-router-dom';
 import { ShieldCheck, Database, BarChart3, Home, Sparkles } from 'lucide-react';
 
 export default function Navbar() {
